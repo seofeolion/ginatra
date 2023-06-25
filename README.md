@@ -5,6 +5,7 @@
 [![Gem Version](https://img.shields.io/gem/v/ginatra.svg)](https://rubygems.org/gems/ginatra)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/NARKOZ/ginatra/blob/master/LICENSE.txt)
 
+
 **Ginatra** is a simple web-based git repository browser built on Ruby Sinatra.
 
 [ [website](http://narkoz.github.io/ginatra) |
